@@ -1038,13 +1038,6 @@ Deployment Requirements:
 - [Kubeflow Documentation](https://kubeflow.org/docs/)
 - [TensorFlow Extended (TFX)](https://tensorflow.org/tfx)
 - [AWS SageMaker](https://docs.aws.amazon.com/sagemaker/)
-
-### Community Resources
-- MLOps Community Slack
-- Papers With Code (ML research)
-- Towards Data Science (Medium)
-- ML Twitter community
-
 ---
 
 *This guide provides a comprehensive overview of MLOps practices. Remember that every project is unique, and you should adapt these practices to your specific context and requirements.*
